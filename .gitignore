@@ -1,0 +1,7 @@
+# MySQL / Docker runtime files
+database/
+*.sock
+
+
+# Docker volumes
+mysql-data/
